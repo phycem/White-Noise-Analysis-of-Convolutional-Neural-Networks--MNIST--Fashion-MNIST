@@ -5,8 +5,9 @@ analysis (i.e. the subject of this paper) protocols investigates the inherent bi
 exist within a single neuron level and the network level.
 The overall goal is to train two simple NNs on MNIST and Fashion-MNIST datasets,
 calculate average noise maps for each class in the datasets, determine what the model
-classifies each noise map, and use the noise maps themselves as the classifier. A view
-of the activation layers within each NN for each class should give you a peak into how
+classifies each noise map, and use the noise maps themselves as the classifier.
+
+Currently working on a view of the activation layers within each NN for each class that perhaps will give a peak into how
 the NN sees the data as it passes through the network.
 
 
