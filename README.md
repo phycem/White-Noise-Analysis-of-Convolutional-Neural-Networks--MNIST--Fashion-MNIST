@@ -13,3 +13,7 @@ the NN sees the data as it passes through the network.
 
 Paper: https://arxiv.org/pdf/1912.12106.pdf
 Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
+
+
+Q1&2 -- CNN_Models_withTraining.ipynb
+
