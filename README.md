@@ -15,7 +15,7 @@ Paper: https://arxiv.org/pdf/1912.12106.pdf
 Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
 
 
-Q1&2 -- CNN_Models_withTraining.ipynb
+# Q1&2 -- CNN_Models_withTraining.ipynb
 
 Q3:
 
@@ -27,7 +27,7 @@ Q3:
 ## Model_with_MNIST.ipynb
 ## Model_Fashion_MNIST.ipynb
 
-Q5 Results overview:
+# Q5 Results overview:
 
 [CNN Presentation.pptx](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/files/10986376/CNN.Presentation.pptx)
 
