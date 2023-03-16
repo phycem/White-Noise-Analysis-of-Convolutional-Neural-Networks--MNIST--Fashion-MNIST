@@ -31,7 +31,10 @@ Q5 Results overview:
 
 [CNN Presentation.pptx](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/files/10986376/CNN.Presentation.pptx)
 
+
 ![image](https://user-images.githubusercontent.com/51805023/225508337-fcb39345-b828-4733-bed9-72755130a8ed.png)
+
+![image](https://user-images.githubusercontent.com/51805023/225509820-8ea6d93f-159d-4750-8558-19da57c93f08.png)
 
 ![image](https://user-images.githubusercontent.com/51805023/225509315-0e080391-aeda-491b-a31b-3a290f324def.png)
 
