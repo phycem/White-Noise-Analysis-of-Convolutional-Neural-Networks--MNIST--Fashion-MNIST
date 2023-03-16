@@ -19,13 +19,13 @@ Q1&2 -- CNN_Models_withTraining.ipynb
 
 Q3:
 
-My model called "Net" trained on MNIST and Fashion-MNIST
-Net_model_MNIST.ipynb
-Net_Fashion_MNIST.ipynb
+# My model called "Net" trained on MNIST and Fashion-MNIST:
+## Net_model_MNIST.ipynb
+## Net_Fashion_MNIST.ipynb
 
-Model from the paper trained on MNIST and Fashion-MNIST
-Model_with_MNIST.ipynb
-Model_Fashion_MNIST.ipynb
+# Model from the paper trained on MNIST and Fashion-MNIST
+## Model_with_MNIST.ipynb
+## Model_Fashion_MNIST.ipynb
 
 Q5 Results overview:
 
