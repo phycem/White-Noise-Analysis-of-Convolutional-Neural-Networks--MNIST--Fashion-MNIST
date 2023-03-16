@@ -21,3 +21,4 @@ Q1&2 -- CNN_Models_withTraining.ipynb
 
 
 [CNN Presentation.pptx](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/files/10986376/CNN.Presentation.pptx)
+![image](https://user-images.githubusercontent.com/51805023/225508197-4396bf18-8d57-464e-b30a-906a87144406.png)
