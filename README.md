@@ -17,7 +17,8 @@ Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
 
 # Q1&2 -- CNN_Models_withTraining.ipynb
 
-Q3:
+
+# Q3:
 
 # My model called "Net" trained on MNIST and Fashion-MNIST:
 ## Net_model_MNIST.ipynb
@@ -26,6 +27,10 @@ Q3:
 # Model from the paper trained on MNIST and Fashion-MNIST
 ## Model_with_MNIST.ipynb
 ## Model_Fashion_MNIST.ipynb
+
+# Q4: Activation titles 4 notebooks
+
+# Q5: Training_Image_Augmentation.ipynb
 
 # Q5 Results overview:
 
