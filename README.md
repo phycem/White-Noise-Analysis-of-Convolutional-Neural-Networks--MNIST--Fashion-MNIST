@@ -17,3 +17,7 @@ Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
 
 Q1&2 -- CNN_Models_withTraining.ipynb
 
+
+
+
+[CNN Presentation.pptx](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/files/10986376/CNN.Presentation.pptx)
