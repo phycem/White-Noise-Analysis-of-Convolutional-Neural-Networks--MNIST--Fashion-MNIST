@@ -15,22 +15,26 @@ Paper: https://arxiv.org/pdf/1912.12106.pdf
 Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
 
 
-# Q1&2 -- CNN_Models_withTraining.ipynb
+# Q1&2 -- [CNN_Models_withTraining.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/CNN_Models_withTraining.ipynb)
 
 
 # Q3:
 
 # My model called "Net" trained on MNIST and Fashion-MNIST:
 ## [NET_model_MNIST.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/50d5ccb2b83d5d9167f8442d83057bceb767ffe7/Net_Fashion_MNIST.ipynb)
-## Net_Fashion_MNIST.ipynb
+## [Net_Fashion_MNIST.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/50d5ccb2b83d5d9167f8442d83057bceb767ffe7/Net_Fashion_MNIST.ipynb)
 
 # Model from the paper trained on MNIST and Fashion-MNIST
-## Model_with_MNIST.ipynb
-## Model_Fashion_MNIST.ipynb
+## [Model_with_MNIST.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/Model_with_MNIST.ipynb)
+## [Model_Fashion_MNIST.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/Model_Fashion_MNIST.ipynb)
 
-# Q4: Activation titles 4 notebooks
+# Q4: Activation titles 4 notebooks:
+## [Activation_Layers_Fashion_MNIST_with_Model.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/Activation_Layers_Fashion_MNIST_with_Model.ipynb)
+## [Activation_Layers_Fashion_MNIST_with_Net.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/Activation_Layers_Fashion_MNIST_with_Net.ipynb)
+## [Activation_Layers_MNIST_with_Model.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/Activation_Layers_MNIST_with_Model.ipynb)
+## [Activation_Layers_MNIST_with_Net.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/Activation_Layers_MNIST_with_Net.ipynb)
 
-# Q5: Training_Image_Augmentation.ipynb
+# Q5: [Training_Image_Augmentation.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/Training_Image_Augmentation.ipynb)
 
 # Q5 Results overview:
 
