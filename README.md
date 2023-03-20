@@ -21,7 +21,7 @@ Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
 # Q3:
 
 # My model called "Net" trained on MNIST and Fashion-MNIST:
-## [NET_model_MNIST.ipynb] Net_model_MNIST.ipynb  (NET_model_MNIST.ipynb)
+## [NET_model_MNIST.ipynb] https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/50d5ccb2b83d5d9167f8442d83057bceb767ffe7/Net_Fashion_MNIST.ipynb Net_model_MNIST.ipynb  (NET_model_MNIST.ipynb)
 ## Net_Fashion_MNIST.ipynb
 
 # Model from the paper trained on MNIST and Fashion-MNIST
