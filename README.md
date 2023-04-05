@@ -7,7 +7,7 @@ The overall goal is to train two simple NNs on MNIST and Fashion-MNIST datasets,
 calculate average noise maps for each class in the datasets, determine what the model
 classifies each noise map, and use the noise maps themselves as the classifier.
 
-Currently working on a view of the activation layers within each NN for each class that perhaps will give a peak into how
+A view of the activation layers within each NN for each class gives a peak into how
 the NN sees the data as it passes through the network.
 
 
