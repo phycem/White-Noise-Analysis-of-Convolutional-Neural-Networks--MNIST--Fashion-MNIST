@@ -14,7 +14,7 @@ the NN sees the data as it passes through the network.
 Paper: https://arxiv.org/pdf/1912.12106.pdf
 Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
 
-A major mistake in the notebooks is that I trained the model many times over and over again since I had hard time saving the model and reusing it in a later time. When I solve that issue, I will push the changes accordingly. 
+**** A major mistake in the notebooks is that I trained the model many times over and over again since I had hard time saving the model and reusing it in a later time. When I solve that issue, I will push the changes accordingly. ****
 
 
 # Q1&2 -- [CNN_Models_withTraining.ipynb](https://github.com/phycem/White-Noise-Analysis-of-Convolutional-Neural-Networks--MNIST--Fashion-MNIST/blob/d502d073723f5622ac2fd97401d60abc8f98c822/CNN_Models_withTraining.ipynb)
