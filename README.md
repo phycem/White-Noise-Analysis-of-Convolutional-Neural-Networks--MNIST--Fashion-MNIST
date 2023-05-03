@@ -14,6 +14,9 @@ the NN sees the data as it passes through the network.
 Paper: https://arxiv.org/pdf/1912.12106.pdf
 Paper Repo: https://github.com/aliborji/WhiteNoiseAnalysis
 
+Reading ML System Design along the way: https://github.com/chiphuyen/dmls-book
+
+
 **** A major mistake in the notebooks is that I trained the model many times over and over again since I had hard time saving the model and reusing it in a later time. When I solve that issue, I will push the changes accordingly. ****
 
 
